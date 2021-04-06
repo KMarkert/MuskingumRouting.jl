@@ -1,0 +1,4 @@
+name = "MuskingumRouting"
+uuid = "7f868e2c-d906-439d-9670-bd82dca3e6d0"
+authors = ["kmarkert <kel.markert@gmail.com>"]
+version = "0.1.0"
